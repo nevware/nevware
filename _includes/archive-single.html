@@ -11,7 +11,11 @@
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-    <p>Hello</p>
+    <p>post teaser: {{ post.header.teaser }} </p>
+    <p>site teaser: {{ site.teaser }}</p>
+    <p>include teaser: {{ teaser }} </p>
+    <p>include type: {{ include.type }}</p>
+
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
