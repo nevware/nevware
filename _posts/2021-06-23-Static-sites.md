@@ -35,7 +35,7 @@ So, the challenge for CMS solutions is that customer expectations have shifted w
 
 Both approaches face a major challenge - the complexity of using a CMS as a composition tool for functionality. Your CMS configuration, including/excluding/configuring external features, becomes a programming language in its own right - but without the tooling and processes that allow mainstram programming languages to be productive, like test frameworks, debuggers, IDEs etc. 
 
-## Static sites, dynamic pages: JAMStack, Content Mesh and serverless##
+## Static sites, dynamic pages: JAMStack, Content Mesh and serverless ##
 
 I'm not the first person to realize this - the JAMStack concept was launched around 2016, and in my experience has exited the "early adopter" phase.
 
@@ -46,5 +46,22 @@ The new orthodoxy for web applications seems to be:
   - JavaScript-based integration with either off-the-shelf services such as OAuth, Google Analytics, etc., or custom-written serverless functions to add functionality to the webpages. Asynchronous where possible, graceful degredation where not.
   - Hosted on auto-scaling Cloud infrastructure, with a robust CDN to serve static assets.
   
+Let's start with the drawbacks of this architecture.
+
+At run time, there can be a lot of activity in the browser. While the page itself may load lighteningly fast, all the JavaScript can end up doing a lot of work. This can make the site feel slow.
+
+Secondly, there's no "framework" - one of the things I like about MVC, or Ruby on Rails, or traditional CMS platforms, is that they provide a paved road - if you want to add a new feature, there are common ways of doing it. What I disliked about PHP or (shudder) PERL was that there are dozens of ways of achieving the same thing, and you could usually tell who had delivered a feature by looking at the code.
+Without the paved road, it's very easy for applications to become messy, unmaintainable, and slow.
+
+My final major concern is that the dependency on external systems means your site may lose functionality without you knowing - and in some cases, that might damage the customer experience. If you depend on a Cloud-hosted check-out API, and they screw up a deployment, your website loses sales until they fix that screw-up. Your service providers _should_ be at least as good at maintaining uptime as you are, but you only have their word for it...
+
+The benefits, however, are impressive. 
+
+Firstly, you can use "best of breed" services for common features, and you can integrate them in any way supported by your programming language and their API. This gives both a quality and time-to-market boost - many marketing services are designed for quick and easy implementation in the browser.
+
+Secondly, you have full control over each page, and you're not constrained by the CMS's templating logic. You can integrate with React, Svelte, Angular - whatever makes you happy - and you can even mix and match. You can also use popular web development techniques like Live Reload, which brings a big productivity boost.
+
+And finally, yes, the performance and scalability boost - and the lack of complex server-side caching - can be a huge time saver. Typically a static webpage takes less than 1% of the server-side resources of a generated pages. And there's a [famous saying about the two hard problems in computer science](https://www.martinfowler.com/bliki/TwoHardThings.html)...
+
 
 
