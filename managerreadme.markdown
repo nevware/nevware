@@ -7,15 +7,16 @@ header:
   image: /assets/images/mudlands.jpg
 ---
 
-## Working with Nev: a beginner's guide.
+# Working with Nev: a guide.
 
 _This is inspired by [manager readme's](https://hypercontext.com/blog/management-skills/49-manager-readmes) from people I admire_
 
-### What is this?
+
+## What is this?
 
 I stumbled across the concept of "manager readmes" on a Slack Channel, and it made me realize how much we take for granted in our interactions. Writing down what you can expect from me should reduce that - but when you see something that doesn't work for you, please don't assume I need you to fit in with _my_ preferences. In fact, it's the other way round - tell me about what doesn't work for you, and we'll figure it out.
 
-### Nev, the person
+## Nev, the person
 
 I was born in the UK, grew up in the Netherlands, returned to the UK for university, and never left. I have 4 children, 3 of whom are adults, 2 of whom live with me. I am no longer with their mothers (long story).
 
@@ -23,7 +24,7 @@ I live on a big houseboat in East London. No, it's not cold in the winter. There
 
 In my free time, I like to read, listen to music (jazz, classical, world music) and cook as well as eat. I am mostly an introvert - I recharge my batteries by being alone - but I enjoy social occasions and being in London's many cultural spaces.
 
-### Nev, the software engineer
+## Nev, the software engineer
 
 Well, that's stretching it. I haven't been hands-on for 2 decades. I started by writing database queries in SQL on Honeywell Bull mini computers the early 1990s; moved on to client-server applications with Visual Basic and SQL Server, then built web applications in PHP and Java, and at that point, architecture and management became the major part of my day job.
 
@@ -31,11 +32,11 @@ My proudest technical claim to fame is my [Stack Overflow](https://stackoverflow
 
 My approach to engineering challenges is based on the 80/20 rule. The extra effort to go from "rubbish" to "acceptable" is typically fairly small; from "acceptable to good" a little bigger, and "good" to "perfect" requires huge effort. This applies to code quality, documentation, test coverage, automation etc. It takes a lot to convince me that either extreme - "rubbish" or "perfect" is appropriate.
 
-### Nev, the manager
+## Nev, the manager
 
 What can you expect from me?
 
-#### Talk to me!
+### Talk to me!
 
 I generally try to schedule regular one-to-one conversations in calendars, but I'm not great at sticking to them (see [known failure modes](#known_failure_modes). *You can book time in my diary anytime you have something you want to discuss, without seeking permission. My diary is up to date!* 
 
@@ -43,7 +44,7 @@ In general, I prefer asynchronous communication; if it's urgent, please @ me.
 
 In our conversations, I will be as direct and transparent as I know how. I will protect confidences - both of individuals and the company - so I can't always share everything I know. But I will err towards open. 
 
-#### Work/life balance
+### Work/life balance
 
 I have gone through burn-out. It's insidious - you _think_ you can handle the pressure, the workload - and then you can't.
 
@@ -56,7 +57,7 @@ What that means for _me_:
   - It is likely I will spend time outside those hours on work that doesn't require interaction with others. If I contact you during those hours on asynchronous channels, I do *not* expect you to reply immediately. Please don't.
   - I keep my diary up to date, and generally try to block out a few hours every day for "deep work". Please don't book over these slots except in an emergency.
 
-#### Career development, performance, that sort of thing
+### Career development, performance, that sort of thing
 
 Honestly, I've never worked in a place with a career development strategy that fit everyone in my team.
 
@@ -66,7 +67,7 @@ So, you can expect me to work with you to figure out what you _want_ (and often,
 
 You can also expect me to be clear and direct about peformance feedback. I generally do this from two angles - how does your current performance support the goals we've agreed? And how does your current performance match what the company needs from you?
 
-### Principles
+## Principles
 There are a few things I care about, and try to adhere to in all my interactions.
   - *Separate substance from people:* debate is good. It's how we test our ideas, how we learn from others, it's how we expand our mental models. Debate can often lead to disagreement, and recognizing and (hopefully) resolving that disagreement is important. This only works if you can separate the substance of the argument from the person delivering it.
   - *Assume good intent:* related to the point above - I assume everyone wants "good" things, but may disagree on what "good" is, or how we achieve it. Unless I see clear evidence to the contrary, I give people the benefit of the doubt.
