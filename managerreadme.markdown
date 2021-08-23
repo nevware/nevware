@@ -6,17 +6,28 @@ permalink: /readme/
 header:
   image: /assets/images/mudlands.jpg
 ---
+- [Working with Nev: a guide.](#working-with-nev-a-guide)
+  - [What is this?](#what-is-this)
+  - [Nev, the person](#nev-the-person)
+  - [Nev, the software engineer](#nev-the-software-engineer)
+  - [Nev, the manager](#nev-the-manager)
+    - [Talk to me!](#talk-to-me)
+    - [Work/life balance](#worklife-balance)
+    - [Career development, performance, that sort of thing](#career-development-performance-that-sort-of-thing)
+  - [Principles](#principles)
+  - [Known failure modes](#known-failure-modes)
+  - [Quirks](#quirks)
+- [Thank you!](#thank-you)
 
 # Working with Nev: a guide.
 
 _This is inspired by [manager readme's](https://hypercontext.com/blog/management-skills/49-manager-readmes) from people I admire_
 
-
-## What is this?
+## What is this?
 
 I stumbled across the concept of "manager readmes" on a Slack Channel, and it made me realize how much we take for granted in our interactions. Writing down what you can expect from me should reduce that - but when you see something that doesn't work for you, please don't assume I need you to fit in with _my_ preferences. In fact, it's the other way round - tell me about what doesn't work for you, and we'll figure it out.
 
-## Nev, the person
+## Nev, the person
 
 I was born in the UK, grew up in the Netherlands, returned to the UK for university, and never left. I have 4 children, 3 of whom are adults, 2 of whom live with me. I am no longer with their mothers (long story).
 
@@ -73,7 +84,7 @@ There are a few things I care about, and try to adhere to in all my interactions
   - *Assume good intent:* related to the point above - I assume everyone wants "good" things, but may disagree on what "good" is, or how we achieve it. Unless I see clear evidence to the contrary, I give people the benefit of the doubt.
   - *If we aren't communicating well, that's _my_ problem, not yours:* Assuming good intent, if we're not communicating well, someone has to change something, and it's usually my job to do so. 
 
-###Known failure modes
+## Known failure modes
 
 I have a tendency to get absorbed in challenges, and prioritize that challenge above other things that _might_ be more important. I _think_ I'm in control of this, but if you see me going down a rabbit hole, please pull me back!
 
@@ -82,6 +93,17 @@ A former colleague once told me he felt I was "lawyering" - asking questions to 
 I have, in the past, prioritized client priorities over team meetings. I try very hard not to do that - but again, if you see me displaying this behaviour, please call me out.
 
 And finally - I can appear impatient. I am not, at an intellectual level - I understand the value of process, of building shared understanding, of doing due dilligence. At a physical level, I tend to fidget and look a little restless. Don't worry about it.
+
+## Quirks
+
+A few things have come up time and again over my career. They're mostly about communication style - I understand that there are times where we want to be a little ambiguous, or create an impression or sense of occasion, or perhaps fit in with established conventions. But in a business context, I often get frustrated when I see people using language imprecisely. You have usually got just one opportunity to communicate a point; you may as well make it as rich as possible.
+
+[The Plain English Campaign's free guides](http://www.plainenglish.co.uk/free-guides.html) are a great starting point. A particular hobby horse is the the [passive voice](http://www.plainenglish.co.uk/free-guides/60-how-to-write-in-plain-english.html). In business communications, it's usually best to be incredibly clear about who is doing what. 
+
+Secondly, I am a fan of [Minto's "Pyramid Principle"](https://tettra.com/article/minto-pyramid-principle/) - it's a way of structuring your thoughts that helps busy folk pick out what you care about. Simply put - start with your conclusion, and build up the arguments to support it. Don't make the reader go through  your entire 3 page email to find out what it is you want them to do. 
+
+I am aware that for many people, the ideas and conclusions emerge by talking - but you may notice me trying to find a framework for the conversation - you'll probably hear me ask "so what's the question?" more than once.
+
 
 # Thank you!
 
