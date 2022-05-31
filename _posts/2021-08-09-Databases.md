@@ -1,9 +1,11 @@
 ---
-title: 'Databases - what I've learnt'
+title: 'Databases and what I've learnt'
 date: 2021-08-22T15:44:43+00:00
 author: "Neville Kuyt"
 layout: single
-
+header: 
+  image: /assets/images/bottleneck.png
+  teaser: /assets/images/bottleneck.png
 excerpt:
     I first saw SQL in 1989. Of all the technical skills I've learnt, relational databases have been the most useful...
 ---
