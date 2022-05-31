@@ -1,13 +1,9 @@
 ---
-title: 'Databases and what I've learnt'
-date: 2021-08-22T15:44:43+00:00
+title: 'Databases'
+date: 2019-06-20T14:10:42+00:00
 author: "Neville Kuyt"
 layout: single
-header: 
-  image: /assets/images/bottleneck.png
-  teaser: /assets/images/bottleneck.png
-excerpt:
-    I first saw SQL in 1989. Of all the technical skills I've learnt, relational databases have been the most useful...
+
 ---
 
 I'm currently reading [Kleppmann's Designing Data Intensive Applications](https://dataintensive.net/). It's a great book - the writing is clear but not simplistic, and there's a great balance between pragmatism and enthusiasm for the various technologies. 
