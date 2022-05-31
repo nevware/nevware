@@ -12,7 +12,7 @@ Hello.
 
 I am Neville Kuyt; I've been making software professionally for over 3 decades. I am active on [Stack Overflow](https://stackoverflow.com/users/626692/neville-kuyt), and on the [Rands Leadership Slack channel](https://rands-leadership.slack.com).
 
-I work at [Equal Experts](https://equalexperts.com), a technology consulting firm. Before that I worked for a digital agency, and a bunch of start-ups. I started my coding career at a management consulting firm, building applications in Visual Basic and SQL. 
+I work at a technology consulting firm. Before that I worked for a digital agency, and a bunch of start-ups. I started my coding career at a management consulting firm, building applications in Visual Basic and SQL. 
 
 For most of my career, I've been working on web and mobile things that interact with customers. I've worked with some of the biggest companies in the world - Heineken, Nike, KLM, MINI, Hermès, Johnnie Walker.
 
