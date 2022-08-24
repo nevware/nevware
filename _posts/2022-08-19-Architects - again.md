@@ -1,6 +1,6 @@
 ---
 title: 'Architecture, software, and business'
-date: 2021-08-22T15:44:43+00:00
+date: 2022-08-19T15:44:43+00:00
 author: "Neville Kuyt"
 layout: single
 
