@@ -32,12 +32,3 @@ And then we get to the real-politik. Most people have (very) limited attention s
 And this is all upsetting, but the consequence is that our ability to get things done, to make substantive changes, is declining. Every problem becomes a question of finding blame, of identifying the "good" and "bad" actors. Traffic in London is a nightmare, pollution is harming people, the city is unpleasant - "it's the fault of the drivers/cyclists/mayor/NIMBYs/TfL/government". Nobody wants to change, bear any costs, suffer inconvenience. I just about remember my parents getting a small grant to replace the coal-fired home heating system with a gas-fired boiler - but our ability to raise tax has reduced, and the tabloids will pounce on "giveaways" so even those measures are becoming harder.
 
 So, with huge, collective challenges - the pandemic, climate change, various ecological disasters, growing resistance to antibiotics, the growth of disease caused by obesity, the economic disparities in some Western countries, political crises in the Middle East - our ability to get things done seems to be declining. We can "get things done" on a local and national scale, sometimes; different countries have demonstrated that during the pandemic. But large-scale challenges, requiring collective action across many societies? It's hard to see many successes. 
-
-
-
-
-
-
-
-
-
