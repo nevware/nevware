@@ -6,3 +6,4 @@ vendor
 assets/.DS_Store
 assets/images/.DS_Store
 .DS_Store
+Gemfile.lock
