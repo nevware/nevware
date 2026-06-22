@@ -1,0 +1,17 @@
+# Neville Kuyt's blog - full index for LLM ingestion
+
+This file provides a single-entry index for complete Markdown coverage of the site.
+
+## Primary corpus endpoint
+
+- https://www.kuyt.org/posts/index.md
+
+## Root markdown pages
+
+- https://www.kuyt.org/index.md
+- https://www.kuyt.org/about/index.md
+
+## Notes
+
+- `posts/index.md` lists all known post URLs and their Markdown endpoints.
+- Markdown mirrors are available under post permalink paths ending in `index.md`.

@@ -1,0 +1,26 @@
+# Neville Kuyt's blog
+
+> Personal writing about software architecture, engineering leadership, digital strategy, and technology trends.
+
+## Core pages
+
+- [Home](https://www.kuyt.org/): Main landing page
+- [About](https://www.kuyt.org/about/): Site overview and author background
+- [Markdown home](https://www.kuyt.org/index.md): Clean Markdown homepage
+- [Markdown about](https://www.kuyt.org/about/index.md): Clean Markdown about page
+- [Posts markdown index](https://www.kuyt.org/posts/index.md): Full list of posts with Markdown endpoints
+- [Sitemap](https://www.kuyt.org/sitemap.xml): Machine-discoverable page index
+
+## Featured writing
+
+- [The impact of LLMs and agents on software architecture](https://www.kuyt.org/2026/04/30/How_I_use_LLMs/)
+- [Agents and demons](https://www.kuyt.org/2025/03/20/Agentic/)
+- [Team Topologies - journey, not destination?](https://www.kuyt.org/2024/07/03/Team-Topologies/)
+- [Generative AI is coming for my job. Maybe.](https://www.kuyt.org/2024/07/01/GenAI/)
+- [Software teams - what does "good" look like?](https://www.kuyt.org/2021/10/1/What-does-good-look-like/)
+- [Databases](https://www.kuyt.org/2021/08/09/Databases/)
+
+## Markdown route convention
+
+- For most pages, append `index.md` to the page URL path.
+- Example: `https://www.kuyt.org/2024/07/03/Team-Topologies/index.md`

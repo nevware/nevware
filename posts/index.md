@@ -1,0 +1,146 @@
+# Post Index
+
+Original site: https://www.kuyt.org/
+
+This file lists posts with their HTML and Markdown endpoints.
+
+- [The impact of LLMs and agents on software architecture](/2026/04/30/How_I_use_LLMs/)
+  - Markdown: /2026/04/30/How_I_use_LLMs/index.md
+- [Agents and demons.](/2025/03/20/Agentic/)
+  - Markdown: /2025/03/20/Agentic/index.md
+- [Team Topologies - journey, not destination?](/2024/07/03/Team-Topologies/)
+  - Markdown: /2024/07/03/Team-Topologies/index.md
+- [Generative AI is coming for my job. Maybe.](/2024/07/01/GenAI/)
+  - Markdown: /2024/07/01/GenAI/index.md
+- ["Estimating is hard. Maybe impossible. So we must do it."](/2023/02/02/Estimating/)
+  - Markdown: /2023/02/02/Estimating/index.md
+- ["My boss is terrible - shall I tell _their_ boss?"](/2022/11/9/My-boss-is-terrible/)
+  - Markdown: /2022/11/9/My-boss-is-terrible/index.md
+- [Architecture, software, and business](/2022/08/19/Architects - again/)
+  - Markdown: /2022/08/19/Architects - again/index.md
+- [The Pyramid Principle](/2022/06/23/Pyramid-principle-redux/)
+  - Markdown: /2022/06/23/Pyramid-principle-redux/index.md
+- [Resume advice](/2022/05/31/The-perfect-resume/)
+  - Markdown: /2022/05/31/The-perfect-resume/index.md
+- [Analysis + capital + execution = success](/2021/12/22/Analysis-capital-execution/)
+  - Markdown: /2021/12/22/Analysis-capital-execution/index.md
+- [Software teams - what does "good" look like?](/2021/10/1/What-does-good-look-like/)
+  - Markdown: /2021/10/1/What-does-good-look-like/index.md
+- [Software architects and engineers - where do you draw the boundary?](/2021/09/19/Architects, engineers and boundaries/)
+  - Markdown: /2021/09/19/Architects, engineers and boundaries/index.md
+- [Resilience, efficiency, hierarchies and networks](/2021/09/09/resilience-versus-efficiency/)
+  - Markdown: /2021/09/09/resilience-versus-efficiency/index.md
+- [Databases](/2021/08/09/Databases/)
+  - Markdown: /2021/08/09/Databases/index.md
+- [A brief thought on politics](/2021/07/22/the-state-of-the-world/)
+  - Markdown: /2021/07/22/the-state-of-the-world/index.md
+- [Content management systems - oh no, not again!](/2021/06/23/Static-sites/)
+  - Markdown: /2021/06/23/Static-sites/index.md
+- [This one weird trick will &#8211; well, probably do nothing.](/2021/02/22/this-one-weird-trick-will-well-probably-do-nothing/)
+  - Markdown: /2021/02/22/this-one-weird-trick-will-well-probably-do-nothing/index.md
+- [The fundamental attribution error &#8211; or why you&#8217;re an asshole, and I&#8217;m rational](/2020/08/10/the-fundamental-attribution-error-or-why-youre-an-asshole-and-im-rational/)
+  - Markdown: /2020/08/10/the-fundamental-attribution-error-or-why-youre-an-asshole-and-im-rational/index.md
+- [Artificial (emotional) intelligence.](/2020/07/23/artificial-emotional-intelligence/)
+  - Markdown: /2020/07/23/artificial-emotional-intelligence/index.md
+- [On managing development teams.](/2020/02/03/on-managing-development-teams/)
+  - Markdown: /2020/02/03/on-managing-development-teams/index.md
+- [Web application load and performance optimization &#8211; hunting the bottleneck.](/2019/12/10/web-application-load-and-performance-optimization-hunting-the-bottleneck/)
+  - Markdown: /2019/12/10/web-application-load-and-performance-optimization-hunting-the-bottleneck/index.md
+- [Running a good meeting.](/2019/10/30/running-a-good-meeting/)
+  - Markdown: /2019/10/30/running-a-good-meeting/index.md
+- [Software engineering career ladders](/2019/10/29/software-engineering-career-ladders/)
+  - Markdown: /2019/10/29/software-engineering-career-ladders/index.md
+- [Slices, layers, tiers, components &#8211; oh my!](/2019/08/19/slices-layers-tiers-components-oh-my/)
+  - Markdown: /2019/08/19/slices-layers-tiers-components-oh-my/index.md
+- [Stories and numbers: OKRs](/2019/06/20/stories-and-numbers-okrs/)
+  - Markdown: /2019/06/20/stories-and-numbers-okrs/index.md
+- [Accenture and Hertz &#8211; slices versus layers](/2019/04/28/accenture-and-hertz-slices-versus-layers/)
+  - Markdown: /2019/04/28/accenture-and-hertz-slices-versus-layers/index.md
+- [Thoughts on the Hertz &#8211; Accenture lawsuit](/2019/04/26/thoughts-on-the-hertz-accenture-lawsuit/)
+  - Markdown: /2019/04/26/thoughts-on-the-hertz-accenture-lawsuit/index.md
+- [Serverless is (mostly) about money.](/2019/03/08/serverless-is-mostly-about-money/)
+  - Markdown: /2019/03/08/serverless-is-mostly-about-money/index.md
+- [Artificial Intelligence, Big Data, and story-telling apes](/2018/01/25/artificial-intelligence-big-data-and-story-telling-apes/)
+  - Markdown: /2018/01/25/artificial-intelligence-big-data-and-story-telling-apes/index.md
+- [Distributed agile development teams](/2018/01/19/distributed-agile-development-teams/)
+  - Markdown: /2018/01/19/distributed-agile-development-teams/index.md
+- [Microservices in the enterprise &#8211; breaking out of the IT silo.](/2017/10/17/microservices-in-the-enterprise-breaking-out-of-the-it-silo/)
+  - Markdown: /2017/10/17/microservices-in-the-enterprise-breaking-out-of-the-it-silo/index.md
+- [Compose first, build last.](/2017/10/16/compose-first-build-last/)
+  - Markdown: /2017/10/16/compose-first-build-last/index.md
+- [Enterprise innovation through escalating bets](/2017/07/19/enterprise-innovation-through-escalating-bets/)
+  - Markdown: /2017/07/19/enterprise-innovation-through-escalating-bets/index.md
+- [Sleep habits.](/2017/06/27/sleep-habits/)
+  - Markdown: /2017/06/27/sleep-habits/index.md
+- [Working with large, distributed teams](/2017/03/20/working-with-large-distributed-teams/)
+  - Markdown: /2017/03/20/working-with-large-distributed-teams/index.md
+- [Customer centric businesses need to be able to iterate. Quickly](/2017/03/16/customer-centric-businesses-need-to-be-able-to-iterate-quickly/)
+  - Markdown: /2017/03/16/customer-centric-businesses-need-to-be-able-to-iterate-quickly/index.md
+- [Can an agency be a consultant?](/2017/03/14/can-an-agency-be-a-consultant/)
+  - Markdown: /2017/03/14/can-an-agency-be-a-consultant/index.md
+- [Offices suck.](/2017/03/06/offices-suck/)
+  - Markdown: /2017/03/06/offices-suck/index.md
+- [There goes my job &#8211; again?](/2017/02/27/there-goes-my-job-again/)
+  - Markdown: /2017/02/27/there-goes-my-job-again/index.md
+- [Don&#8217;t worry what you&#8217;ll do when you leave education &#8211; your job hasn&#8217;t been invented yet.](/2017/02/21/dont-worry-what-youll-do-when-you-leave-education-your-job-hasnt-been-invented-yet/)
+  - Markdown: /2017/02/21/dont-worry-what-youll-do-when-you-leave-education-your-job-hasnt-been-invented-yet/index.md
+- [Aligot &#8211; mashed potato that will kill you (but it&#8217;s worth it).](/2017/02/20/aligot-mashed-potato-that-will-kill-you-but-its-worth-it/)
+  - Markdown: /2017/02/20/aligot-mashed-potato-that-will-kill-you-but-its-worth-it/index.md
+- [Requirements &#8211; notes on value in software.](/2016/11/01/requirements-notes-on-value-in-software/)
+  - Markdown: /2016/11/01/requirements-notes-on-value-in-software/index.md
+- [Inevitable futures &#8211; manufacturing](/2016/09/28/inevitable-futures-manufacturing/)
+  - Markdown: /2016/09/28/inevitable-futures-manufacturing/index.md
+- [Europe.](/2016/06/28/europe/)
+  - Markdown: /2016/06/28/europe/index.md
+- [Project management job number one: land the f****ing plane](/2016/06/27/project-management-job-number-one-land-the-fing-plane/)
+  - Markdown: /2016/06/27/project-management-job-number-one-land-the-fing-plane/index.md
+- [My kids don&#8217;t watch TV. How will you sell them anything?](/2016/06/08/my-kids-dont-watch-tv-how-will-you-sell-them-anything/)
+  - Markdown: /2016/06/08/my-kids-dont-watch-tv-how-will-you-sell-them-anything/index.md
+- [The tragedy of the mega-pixel](/2016/06/07/the-tragedy-of-the-mega-pixel/)
+  - Markdown: /2016/06/07/the-tragedy-of-the-mega-pixel/index.md
+- [Restaurant review: Provender, Wanstead](/2016/05/24/restaurant-review-provender-wanstead/)
+  - Markdown: /2016/05/24/restaurant-review-provender-wanstead/index.md
+- [What does &#8220;good&#8221; look like?](/2016/05/10/what-does-good-look-like/)
+  - Markdown: /2016/05/10/what-does-good-look-like/index.md
+- [Is web design work drying up?](/2016/02/25/is-web-design-work-drying-up/)
+  - Markdown: /2016/02/25/is-web-design-work-drying-up/index.md
+- [Food Gangnam Style &#8211; bibimbad. Yum.](/2016/01/11/food-gangnam-style-bibimbad-yum/)
+  - Markdown: /2016/01/11/food-gangnam-style-bibimbad-yum/index.md
+- [Wintery pasta](/2015/11/11/wintery-pasta/)
+  - Markdown: /2015/11/11/wintery-pasta/index.md
+- [Motorcycle helmet review: VIPER RSV151 BL+  &#8211; do not buy.](/2015/07/24/motorcycle-helmet-review-viper-rsv151-bl-do-not-buy/)
+  - Markdown: /2015/07/24/motorcycle-helmet-review-viper-rsv151-bl-do-not-buy/index.md
+- [Recipe &#8211; chicken cassoulet](/2014/11/16/recipe-chicken-cassoulet/)
+  - Markdown: /2014/11/16/recipe-chicken-cassoulet/index.md
+- [Recipe: Lancashire Carpaccio](/2014/05/26/recipe-lancashire-carpaccio/)
+  - Markdown: /2014/05/26/recipe-lancashire-carpaccio/index.md
+- [Tado smart thermostat experiences](/2014/03/28/tado-smart-thermostat-experiences/)
+  - Markdown: /2014/03/28/tado-smart-thermostat-experiences/index.md
+- [Book review: Tulipomania, by Mike Dash](/2013/12/31/book-review-tulipomania-by-mike-dash/)
+  - Markdown: /2013/12/31/book-review-tulipomania-by-mike-dash/index.md
+- [Book review: An Officer and a Spy, by Robert Harris](/2013/12/23/book-review-an-officer-and-a-spy-by-robert-harris/)
+  - Markdown: /2013/12/23/book-review-an-officer-and-a-spy-by-robert-harris/index.md
+- [Process, product and projects.](/2013/09/15/process-product-and-projects/)
+  - Markdown: /2013/09/15/process-product-and-projects/index.md
+- [What&#8217;s next?](/2013/07/29/whats-next/)
+  - Markdown: /2013/07/29/whats-next/index.md
+- [Book review: “The Essence of Software Engineering: The SEMAT Kernel”](/2013/03/14/book-review-the-essence-of-software-engineering-the-semat-kernel/)
+  - Markdown: /2013/03/14/book-review-the-essence-of-software-engineering-the-semat-kernel/index.md
+- [Stuff I love: XBMC](/2013/02/14/stuff-i-love-xbmc/)
+  - Markdown: /2013/02/14/stuff-i-love-xbmc/index.md
+- [Motorcycle shop you can trust](/2013/02/11/motorcycle-shop-you-can-trust/)
+  - Markdown: /2013/02/11/motorcycle-shop-you-can-trust/index.md
+- [Comic shop Lambiek, Amsterdam](/2013/02/08/comic-shop-lambiek-amsterdam/)
+  - Markdown: /2013/02/08/comic-shop-lambiek-amsterdam/index.md
+- [Stuff I love: Late Junction on BBC3](/2013/01/30/stuff-i-love-late-junction-on-bbc3/)
+  - Markdown: /2013/01/30/stuff-i-love-late-junction-on-bbc3/index.md
+- [Jealous&#8230;](/2013/01/25/jealous/)
+  - Markdown: /2013/01/25/jealous/index.md
+- [Mr Penumbra&#8217;s 24 hour bookshop](/2013/01/05/mr-penumbras-24-hour-bookshop/)
+  - Markdown: /2013/01/05/mr-penumbras-24-hour-bookshop/index.md
+- [Software development and productivity](/2012/12/25/software-development-and-productivity/)
+  - Markdown: /2012/12/25/software-development-and-productivity/index.md
+- [Business travel](/2012/10/25/business-travel/)
+  - Markdown: /2012/10/25/business-travel/index.md
+- [The not-so-lean startup](/2012/09/25/the-not-so-lean-startup/)
+  - Markdown: /2012/09/25/the-not-so-lean-startup/index.md
