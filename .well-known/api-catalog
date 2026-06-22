@@ -1,0 +1,23 @@
+{
+  "name": "kuyt.org agent discovery catalog",
+  "resources": [
+    {
+      "href": "https://www.kuyt.org/llms.txt",
+      "rel": "service-doc",
+      "type": "text/plain",
+      "title": "LLM discovery index"
+    },
+    {
+      "href": "https://www.kuyt.org/llms-full.txt",
+      "rel": "service-doc",
+      "type": "text/plain",
+      "title": "Full LLM corpus index"
+    },
+    {
+      "href": "https://www.kuyt.org/posts/index.md",
+      "rel": "service-doc",
+      "type": "text/markdown",
+      "title": "Post markdown index"
+    }
+  ]
+}

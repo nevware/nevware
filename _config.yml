@@ -46,6 +46,11 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-sitemap
+
+# Ensure discovery artifacts are emitted by Jekyll.
+include:
+  - _headers
+  - .well-known
   
 # Exclude from processing.
 # The following items will not be processed, by default.
