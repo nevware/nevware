@@ -1,6 +1,9 @@
-<link rel="api-catalog" href="{{ '/llms.txt' | absolute_url }}" />
-<link rel="service-doc" href="{{ '/posts/index.md' | absolute_url }}" />
-<link rel="alternate" type="text/markdown" href="{{ '/index.md' | relative_url }}" />
+<!-- RFC 8288 Link relations for agent/API discovery -->
+<link rel="api-catalog" href="{{ '/.well-known/api-catalog' | absolute_url }}" type="application/linkset+json" />
+<link rel="service-doc" href="{{ '/llms.txt' | absolute_url }}" type="text/plain" title="LLM discovery index" />
+<link rel="service-doc" href="{{ '/llms-full.txt' | absolute_url }}" type="text/plain" title="Full LLM corpus index" />
+<link rel="service-doc" href="{{ '/posts/index.md' | absolute_url }}" type="text/markdown" title="Post markdown index" />
+<link rel="alternate" type="text/markdown" href="{{ '/index.md' | absolute_url }}" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4XJ9KEZ1DC"></script>
