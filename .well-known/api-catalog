@@ -1,23 +1,38 @@
 {
-  "name": "kuyt.org agent discovery catalog",
-  "resources": [
+  "linkset": [
     {
-      "href": "https://www.kuyt.org/llms.txt",
-      "rel": "service-doc",
-      "type": "text/plain",
-      "title": "LLM discovery index"
-    },
-    {
-      "href": "https://www.kuyt.org/llms-full.txt",
-      "rel": "service-doc",
-      "type": "text/plain",
-      "title": "Full LLM corpus index"
-    },
-    {
-      "href": "https://www.kuyt.org/posts/index.md",
-      "rel": "service-doc",
-      "type": "text/markdown",
-      "title": "Post markdown index"
+      "anchor": "https://www.kuyt.org/",
+      "service-doc": [
+        {
+          "href": "https://www.kuyt.org/llms.txt",
+          "type": "text/plain",
+          "title": "LLM discovery index"
+        },
+        {
+          "href": "https://www.kuyt.org/llms-full.txt",
+          "type": "text/plain",
+          "title": "Full LLM corpus index"
+        },
+        {
+          "href": "https://www.kuyt.org/posts/index.md",
+          "type": "text/markdown",
+          "title": "Post markdown index"
+        }
+      ],
+      "service-desc": [
+        {
+          "href": "https://www.kuyt.org/.well-known/api-catalog",
+          "type": "application/linkset+json",
+          "title": "This catalog (RFC 9727)"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://www.kuyt.org/",
+          "type": "text/html",
+          "title": "Homepage"
+        }
+      ]
     }
   ]
 }
