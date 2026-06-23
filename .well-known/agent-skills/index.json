@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-skills.dev/schema/v0.2.0/agent-skills-index.schema.json",
+  "skills": [
+    {
+      "name": "Summarize Blog Post",
+      "type": "analysis",
+      "description": "Summarize a kuyt.org post from its markdown source while preserving key arguments.",
+      "url": "https://www.kuyt.org/.well-known/agent-skills/summarize-post.md",
+      "sha256": "b94a99b9ed55a7caea79c872e6392e5d20cfc66a06078df8b2f2f7315cc8f427"
+    },
+    {
+      "name": "Find Post By Topic",
+      "type": "discovery",
+      "description": "Find and rank kuyt.org posts relevant to a requested topic.",
+      "url": "https://www.kuyt.org/.well-known/agent-skills/find-post-by-topic.md",
+      "sha256": "a61575b0392861d11707e2948145cef8947c0e166a1564732a2336c758a34260"
+    }
+  ]
+}

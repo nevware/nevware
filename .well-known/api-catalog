@@ -36,6 +36,11 @@
           "href": "https://www.kuyt.org/.well-known/api-catalog",
           "type": "application/linkset+json",
           "title": "This catalog (RFC 9727)"
+        },
+        {
+          "href": "https://www.kuyt.org/.well-known/agent-skills/index.json",
+          "type": "application/json",
+          "title": "Agent skills discovery index (v0.2.0)"
         }
       ],
       "status": [

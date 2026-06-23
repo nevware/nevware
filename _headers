@@ -9,3 +9,6 @@
 
 /.well-known/oauth-authorization-server
   Content-Type: application/json
+
+/.well-known/agent-skills/index.json
+  Content-Type: application/json
