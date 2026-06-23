@@ -2,6 +2,8 @@
 layout: single
 title: Agent Authentication & Registration
 permalink: /auth
+redirect_from:
+	- /auth.md
 ---
 
 # Agent Authentication & Registration
