@@ -1,0 +1,12 @@
+{
+  "issuer": "https://www.kuyt.org",
+  "agent_auth": {
+    "register_uri": "https://github.com/nevware/nevware/issues",
+    "registration_policy_uri": "https://www.kuyt.org/auth",
+    "identity_types_supported": ["public"],
+    "credential_types_supported": [],
+    "claims_supported": [],
+    "revocation_endpoint": null,
+    "revocation_endpoint_auth_methods_supported": []
+  }
+}

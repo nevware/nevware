@@ -1,0 +1,9 @@
+{
+  "resource": "https://www.kuyt.org/",
+  "resource_documentation": "https://www.kuyt.org/auth",
+  "authorization_servers": [],
+  "bearer_methods_supported": [],
+  "scopes_provided": [],
+  "introspection_endpoint": null,
+  "jwks_uri": null
+}

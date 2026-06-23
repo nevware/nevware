@@ -17,6 +17,18 @@
           "href": "https://www.kuyt.org/posts/index.md",
           "type": "text/markdown",
           "title": "Post markdown index"
+        },
+        {
+          "href": "https://www.kuyt.org/auth",
+          "type": "text/html",
+          "title": "Agent authentication & registration guide"
+        }
+      ],
+      "oauth-protected-resource": [
+        {
+          "href": "https://www.kuyt.org/.well-known/oauth-protected-resource",
+          "type": "application/json",
+          "title": "Protected resource metadata (RFC 9728)"
         }
       ],
       "service-desc": [
